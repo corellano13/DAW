@@ -1,6 +1,2 @@
-hola
-segunda linea
-hola2
-he cambiado el bugfising
-otrocambio
-DAW
+linea definitiva en bugfixing-----------------
+solucionado todo con esta linea en hot fix----
